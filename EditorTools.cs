@@ -172,4 +172,6 @@ public class EditorTools : Editor
         }
         Debug.Log("mesh保存完成");
     }
+
+    //测试一下直接拖拽是否可以更新github
 }
